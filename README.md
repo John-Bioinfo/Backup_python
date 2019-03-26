@@ -2,9 +2,9 @@
 
 ## RNA-Seq
 
-               ____ tophat.sh _____
-              |                    |
-               ____  hisat.sh _____
+            ____ tophat.sh _____
+           |                    |
+            ____  hisat.sh _____
 Record.sh ---     ..........        ------ htseq.sh
              
               
