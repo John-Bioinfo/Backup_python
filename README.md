@@ -4,9 +4,9 @@
 
                ____ tophat.sh _____
               |                    |
+               ____  hisat.sh _____
 Record.sh ---                      ------htseq.sh
-              |                    |
-               _____ hisat.sh ______
+             
               
             
 ## Align_fasta
