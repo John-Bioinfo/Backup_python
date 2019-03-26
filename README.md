@@ -5,7 +5,7 @@
             ____ tophat.sh _____
            |                    |
             ____  hisat.sh _____
-Record.sh ---     ..........        ------ htseq.sh
+Record.sh -----     ..........        ------ htseq.sh
              
               
             
